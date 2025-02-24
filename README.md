@@ -14,8 +14,17 @@ BS(CS) @ FAST • 🕸️ Web-Dev • 💻 Full-Stack • 💸 OS Things
 <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=ecf05e478vt5zl447dawj41l9ti18dt2tmk255vc5tenvwsk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80px">
 <br>
 
-[![](https://img.shields.io/badge/LinkedIn-blue)]()
-[![](https://img.shields.io/badge/Itch.io-red)]()
+## 🔗 Connect with Me
+
+[![](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://sndev.netlify.app)
+[![](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ahsan-naveed-805a5a230/)
+[![](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Sn47/Sn47/Resume.pdf)
+[![](https://img.shields.io/badge/Medium-Blog-green)]([https://medium.com/@your_handle](https://medium.com/@ahsan47sn))
+[![](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Sn47/Sn47/raw/main/Resume.pdf)
+[![](https://img.shields.io/badge/Email-Contact_me-red)](mailto:l215316@lhr.nu.edu.pk)
+[![](https://img.shields.io/badge/Resume-View%20PDF-blue)](https://github.com/Sn47/Sn47/Resume.pdf)
+
+
 
 <br>
 
