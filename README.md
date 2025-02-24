@@ -20,8 +20,8 @@
 [![](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ahsan-naveed-805a5a230/)
 [![](https://img.shields.io/badge/Medium-Blog-green)]([https://medium.com/@your_handle](https://medium.com/@ahsan47sn))
 [![](https://img.shields.io/badge/Resume-Download-blue)](https://github.com/Sn47/Sn47/raw/main/Resume.pdf)
-[![](https://img.shields.io/badge/Email-Contact_me-red)](mailto:l215316@lhr.nu.edu.pk)
 [![](https://img.shields.io/badge/Resume-View%20PDF-blue)](https://github.com/Sn47/Sn47/blob/main/Resume.pdf)
+[![](https://img.shields.io/badge/Email-Contact_me-red)](mailto:l215316@lhr.nu.edu.pk)
 
 
 
