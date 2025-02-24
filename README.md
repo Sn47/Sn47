@@ -7,7 +7,7 @@
 <br>
 
 <pre>
-🎓 BS(CS) @ FAST • 🕸️ Web-Dev • 💻 Full-Stack • 💸 OS Things • 🤖 AI • 🚀 Tinkering with Drones 
+🎓 BS(CS) @ FAST • 🕸️ Web-Dev • 🤖 Robotics • 🦾 Nous Ex Machina(AI)
 </pre>
 
 <br>
