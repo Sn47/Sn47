@@ -2,12 +2,12 @@
 <img style="margin: 0px 0px 30px 0px; border-radius: 50px;" src="./Studio Ghibli.gif"/>
 
 <br><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true&random=false&width=1000&height=100&lines=I+am+Ahsan+%3AD;%E2%80%A2+Exploring+the+beauty+of+AI+and+math+through+code+and+intuition+%E2%80%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true&random=false&width=1000&height=150&lines=Hey%2C+I'm+Ahsan!;I+build+whatever+seems+fun.+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;AI%2C+drones%2C+or+just+curiosity+at+work.+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
     
 <br>
 
 <pre>
-BS(CS) @ FAST • 🕸️ Web-Dev • 💻 Full-Stack • 💸 OS Things
+🎓 BS(CS) @ FAST • 🕸️ Web-Dev • 💻 Full-Stack • 💸 OS Things • 🤖 AI • 🚀 Tinkering with Drones 
 </pre>
 
 <br>
