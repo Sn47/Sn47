@@ -1,10 +1,9 @@
 <div align="center">
-<img style="margin: 0px 0px 30px 0px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpraGF2N2xpZTJ1cnRwdThhY2U3d3Brd2wydW9vYzM5djl3c2Z2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif"/>
+<img style="margin: 0px 0px 30px 0px; border-radius: 50px;" src="./Studio Ghibli.gif"/>
 
 <br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=24F796&center=true&multiline=true&random=false&width=435&lines=I+am+Ahsan+%3AD;%E2%80%A2+Exploring+the+beauty+of+AI+and+math+through+code+and+intuition+%E2%80%A2)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&multiline=true&random=false&width=1000&height=100&lines=I+am+Ahsan+%3AD;%E2%80%A2+Exploring+the+beauty+of+AI+and+math+through+code+and+intuition+%E2%80%A2)](https://git.io/typing-svg)
+    
 <br>
 
 <pre>
