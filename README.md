@@ -3,8 +3,8 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=24F796&center=true&multiline=true&random=false&width=435&lines=I+am+Sadeem+%3AD;%E2%80%A2+I+work+on+the+Web+%26+OS+%E2%80%A2)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=24F796&center=true&multiline=true&random=false&width=435&lines=I+am+Ahsan+%3AD;%E2%80%A2+Exploring+the+beauty+of+AI+and+math+through+code+and+intuition+%E2%80%A2)](https://git.io/typing-svg)
+
 <br>
 
 <pre>
