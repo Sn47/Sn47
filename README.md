@@ -2,7 +2,7 @@
 <img style="margin: 0px 0px 30px 0px;" src="https://media1.tenor.com/m/psQzFHIko4MAAAAd/study-anime.gif" width="500px">
 
 <br><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&color=FFFFFF&center=true&multiline=true&random=false&width=1000&height=150&lines=Hey%2C+I'm+Ahsan!;;I+build+whatever+seems+fun.+%F0%9F%97%A1%EF%B8%8F;;AI%2C+drones%2C+or+just+curiosity+about+things.+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&center=true&multiline=true&random=false&width=1000&height=150&lines=Hey%2C+I'm+Ahsan!;;I+build+whatever+seems+fun.+%F0%9F%97%A1%EF%B8%8F;;AI%2C+drones%2C+or+just+curiosity+about+things.+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
     
 <br>
 
